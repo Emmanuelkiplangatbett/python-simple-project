@@ -158,3 +158,18 @@
 #     print('*' * i)
 #     i = i + 1
 # print("Done")
+
+
+
+#  FOR LOOPS
+
+# for item in range(5, 10, 2):
+#     print(item)
+
+   #price calculater
+  
+# prices = [10, 20, 30]
+# total = 0
+# for price in prices:
+#     total += price
+# print('Total is', total)
